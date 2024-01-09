@@ -1,0 +1,91 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-4-2m2 {
+  padding: 3.8rem 1.1rem 5.8rem 1.9rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #c2f6c7;
+  box-sizing: border-box;
+
+  .auto-group-1kl4-A6Y {
+    width: calc(100% - 16.1rem);
+    display: flex;
+    align-items: flex-end;
+    flex-shrink: 0;
+    margin: 0rem 16.1rem 6.1rem 0rem;
+
+    .back-arrow-tYL {
+      width: 10.4rem;
+      height: 10rem;
+      cursor: pointer;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin: 0rem 7.7rem 1.7rem 0rem;
+    }
+    .intelligent-reflecting-surface-irs-Cov {
+      font-size: 6.6rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+  }
+  .auto-group-ztsg-Wpc {
+    margin-left: 8.4rem;
+    width: 132.6rem;
+    height: 75rem;
+    position: relative;
+    flex-shrink: 0;
+
+    .schematic-diagram-of-double-irs-assisted-uplink-communicationw640-1-3Ze {
+      vertical-align: top;
+      width: 71.6rem;
+      height: 56.2rem;
+      position: absolute;
+      left: 61rem;
+      top: 8.3rem;
+      object-fit: cover;
+    }
+    .rectangle-12-wQ8 {
+      top: 0;
+      background-color: #d9d9d9;
+      border-radius: 1.5rem;
+      width: 63.6rem;
+      height: 75rem;
+      position: absolute;
+      left: 0;
+    }
+    .in-my-intelligent-reflecting-surfaces-irs-project-i-employed-a-model-featuring-two-irs-elements-in-a-single-input-single-output-siso-configuration-this-setup-leverages-the-unique-capability-of-irs-to-manipulate-radio-frequency-signals-by-reflecting-them-each-irs-element-acts-as-an-intelligent-surface-that-dynamically-adjusts-its-reflective-properties-based-on-the-incident-signal-the-siso-configuration-simplifies-the-system-while-still-demonstrating-the-fundamental-impact-of-irs-on-wireless-communication-in-practical-terms-this-model-allows-for-a-comprehensive-exploration-of-the-influence-of-irs-on-signal-strength-phase-and-overall-channel-characteristics-by-precisely-controlling-the-reflections-from-each-irs-element-i-aimed-to-optimize-signal-propagation-mitigate-path-loss-and-enhance-overall-communication-performance-this-configuration-serves-as-a-foundational-exploration-into-the-practical-implications-of-irs-in-a-controlled-environment-providing-valuable-insights-into-the-potential-improvements-it-can-bring-to-wireless-communication-systems-4Uk {
+      color: #000000;
+      width: 57.3rem;
+      left: 3.2rem;
+      top: 3.4rem;
+      font-weight: 400;
+      font-family: Inter, 'Source Sans Pro';
+      height: 66.7rem;
+      position: absolute;
+      font-size: 2.2rem;
+      line-height: 1.2125;
+    }
+  }
+}

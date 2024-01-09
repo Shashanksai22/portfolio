@@ -1,0 +1,127 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-5-WQc {
+  box-sizing: border-box;
+  padding-bottom: 1.7rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #c8c5c6;
+}
+.desktop-5-WQc .auto-group-yjf6-dk8 {
+  margin-bottom: 3.4rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-5-WQc .auto-group-yjf6-dk8 .auto-group-7rqw-afN {
+  margin-right: 6.9206rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-5-WQc .auto-group-yjf6-dk8 .auto-group-7rqw-afN .auto-group-gys2-jHN {
+  margin-bottom: 3.9825rem;
+  width: 76.6rem;
+  height: 13.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-5-WQc .auto-group-yjf6-dk8 .auto-group-7rqw-afN .auto-group-gys2-jHN .event-voting-machine-fwi {
+  width: 67.7rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 8.9rem;
+  top: 5.4rem;
+  font-size: 6.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-5-WQc .auto-group-yjf6-dk8 .auto-group-7rqw-afN .auto-group-gys2-jHN .back-arrow-A7n {
+  width: 10.4rem;
+  height: 10rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-5-WQc .auto-group-yjf6-dk8 .auto-group-7rqw-afN .auto-group-blxu-HCQ {
+  margin-left: 4.4206rem;
+  box-sizing: border-box;
+  padding: 2.739rem 0.112rem 2.739rem 2.346rem;
+  height: 32.3349rem;
+  background-color: #f3eeee;
+  border-radius: 6rem;
+  flex-shrink: 0;
+}
+.desktop-5-WQc .auto-group-yjf6-dk8 .auto-group-7rqw-afN .auto-group-blxu-HCQ .revolutionizing-the-landscape-of-election-systems-my-project-centers-on-the-creation-of-an-event-voting-machine-employing-verilog-and-vivado-i-meticulously-designed-a-sophisticated-system-utilizing-a-zed-board-equipped-with-five-buttons-four-of-these-buttons-represent-individual-participants-allowing-voters-to-cast-their-preferences-while-the-fifth-button-serves-a-dual-purpose-for-both-resetting-the-system-and-calculating-the-final-votes-yb2 {
+  max-width: 91.7rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-5-WQc .auto-group-yjf6-dk8 .screenshot-9-9-Jmi {
+  width: 40.7rem;
+  height: 55.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-5-WQc .auto-group-cpmr-E9a {
+  margin: 0rem 7.04rem 0rem 0.2rem;
+  width: calc(100% - 7.2404rem);
+  height: 42.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-5-WQc .auto-group-cpmr-E9a .screenshot-1-Kgp {
+  margin-right: 7rem;
+  width: 47.8rem;
+  height: 42.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-5-WQc .auto-group-cpmr-E9a .auto-group-ryve-qv4 {
+  margin: 1rem 0rem 0.806rem 0rem;
+  box-sizing: border-box;
+  padding: 3.957rem 4.577rem 4.237rem 4.983rem;
+  width: 81.9596rem;
+  height: calc(100% - 1.8065rem);
+  background-color: #faf2f2;
+  border-radius: 6rem;
+  flex-shrink: 0;
+}
+.desktop-5-WQc .auto-group-cpmr-E9a .auto-group-ryve-qv4 .under-the-hood-the-verilog-code-implemented-in-vivado-governs-the-logic-of-the-voting-machine-the-code-intricately-manages-the-functionalities-of-the-buttons-ensuring-a-seamless-and-secure-voting-process-the-innovative-design-accommodates-up-to-four-participants-each-associated-with-a-dedicated-button-complemented-by-leds-for-transparent-vote-displays-this-project-not-only-underscores-my-proficiency-in-hardware-description-languages-and-fpga-programming-but-also-showcases-my-commitment-to-enhancing-the-reliability-and-security-of-essential-democratic-processes-88U {
+  max-width: 72.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}

@@ -1,0 +1,220 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-724 {
+  box-sizing: border-box;
+  padding: 2.1rem 0rem 7.9rem 0rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #565656;
+  border-radius: 1.5rem;
+}
+.desktop-1-724 .auto-group-uexk-TEL {
+  margin: 0rem 1.1rem 8.2rem 6.5rem;
+  width: calc(100% - 7.6rem);
+  height: 9.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-724 .auto-group-uexk-TEL .auto-group-6rnl-vn8 {
+  box-sizing: border-box;
+  padding: 2.8rem 53.2rem 2.9rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-724 .auto-group-uexk-TEL .auto-group-6rnl-vn8 .home-dwS {
+  margin: 0.2rem 13.4rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.795;
+  color: #f8efef;
+  font-family: Tiro Telugu, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-724 .auto-group-uexk-TEL .auto-group-6rnl-vn8 .about-7bi {
+  margin: 0.2rem 13.2rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.795;
+  color: #f8efef;
+  font-family: Tiro Telugu, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-724 .auto-group-uexk-TEL .auto-group-6rnl-vn8 .projects-CNG {
+  margin: 0rem 13.1rem 0.2rem 0rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.795;
+  color: #f8efef;
+  font-family: Tiro Telugu, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-724 .auto-group-uexk-TEL .auto-group-6rnl-vn8 .skills-Wdr {
+  margin-top: 0.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.795;
+  color: #f8efef;
+  font-family: Tiro Telugu, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-724 .auto-group-uexk-TEL .auto-group-g7fr-RVv {
+  width: 20.1rem;
+  height: 100%;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.795;
+  color: #f8efef;
+  font-family: Tiro Telugu, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1e1c1c;
+  border-radius: 6rem;
+  flex-shrink: 0;
+}
+.desktop-1-724 .auto-group-wukc-scp {
+  margin-right: 3.5rem;
+  width: calc(100% - 3.5rem);
+  height: 74.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-724 .auto-group-wukc-scp .auto-group-vvmi-Cf6 {
+  margin-right: 9.2rem;
+  box-sizing: border-box;
+  padding: 4.7rem 3.1rem 1.2rem 3.2rem;
+  width: 79.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f5f5;
+  border-radius: 0 1.2rem 1.2rem 0;
+  flex-shrink: 0;
+}
+.desktop-1-724 .auto-group-wukc-scp .auto-group-vvmi-Cf6 .auto-group-ke2p-Wfn {
+  margin-bottom: 4.3rem;
+  width: 100%;
+  height: 31.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-724 .auto-group-wukc-scp .auto-group-vvmi-Cf6 .auto-group-ke2p-Wfn .valasa-shashank-sai-2u2 {
+  width: 50.1rem;
+  height: 10.1rem;
+  position: absolute;
+  left: 23.2rem;
+  top: 21.1rem;
+  font-size: 5.6rem;
+  font-weight: 400;
+  line-height: 1.795;
+  color: #000000;
+  font-family: Tiro Telugu, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-724 .auto-group-wukc-scp .auto-group-vvmi-Cf6 .auto-group-ke2p-Wfn .hi-iWx {
+  width: 23.2rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 6.6rem;
+  font-weight: 400;
+  line-height: 1.795;
+  color: #000000;
+  font-family: Tiro Telugu, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-724 .auto-group-wukc-scp .auto-group-vvmi-Cf6 .auto-group-ke2p-Wfn .this-is-p4C {
+  width: 16.7rem;
+  height: 10.1rem;
+  position: absolute;
+  left: 12rem;
+  top: 11.2rem;
+  font-size: 5.6rem;
+  font-weight: 400;
+  line-height: 1.795;
+  color: #000000;
+  font-family: Tiro Telugu, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-724 .auto-group-wukc-scp .auto-group-vvmi-Cf6 .auto-group-mykz-Wxc {
+  margin: 0rem 1.2rem 0rem 0.7rem;
+  box-sizing: border-box;
+  padding: 5.6rem 3.4rem 0rem 3.9rem;
+  width: calc(100% - 1.9rem);
+  background-color: #d9d9d9;
+  border-radius: 6rem;
+  flex-shrink: 0;
+}
+.desktop-1-724 .auto-group-wukc-scp .auto-group-vvmi-Cf6 .auto-group-mykz-Wxc .hello-im-valasa-shashank-sai-an-electronics-and-communication-engineering-student-at-nit-delhifrom-enhancing-wireless-communication-to-designing-software-solutions-like-an-event-voting-machinei-explore-a-dynamic-intersection-of-software-and-electronics-join-me-on-this-journey-of-creativity-and-problem-solving-in-the-realms-of-both-software-and-electronics-E7v {
+  max-width: 64.1rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.795;
+  color: #000000;
+  font-family: Tiro Telugu, 'Source Sans Pro';
+}
+.desktop-1-724 .auto-group-wukc-scp .auto-group-75p2-jD6 {
+  margin: 12.3rem 0rem 24.4rem 0rem;
+  box-sizing: border-box;
+  padding: 5.1rem 4.3rem 5.7rem 5.5rem;
+  width: 51.7rem;
+  height: calc(100% - 36.7rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fdf4f4;
+  border-radius: 6rem;
+  flex-shrink: 0;
+}
+.desktop-1-724 .auto-group-wukc-scp .auto-group-75p2-jD6 .projects-1Ac {
+  margin: 0rem 0.7rem 6.5rem 0rem;
+  cursor: pointer;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-724 .auto-group-wukc-scp .auto-group-75p2-jD6 .intelligent-reflective-surface-irs-automated-maze-finding-bot-event-votitng-machine-VLg {
+  max-width: 41.9rem;
+  cursor: pointer;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
